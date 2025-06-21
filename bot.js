@@ -119,4 +119,4 @@ async function startBotMassal(baseEmail, emailCount = 10) {
 }
 
 // Contoh: Mengirim ke 10 email: bangico2002+1@gmail.com sampai +10
-startBotMassal('alfaelepo431@gmail.com', 10);
+startBotMassal('masboyy923@gmail.com', 10);
